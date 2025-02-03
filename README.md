@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! хочу научиться писать код и пользоваться различными инструментами
 
 <!--
 **X1x1Xaxa/X1x1Xaxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
